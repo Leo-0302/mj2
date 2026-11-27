@@ -1,0 +1,37 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "DungeonCrawl_ProjectUtumnoTileset (2).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dungeon_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "room1.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 216,
+                "y": 139
+            }
+        },
+        "tilesetformattedupdate1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "",
+    "recentFiles": [
+        "dungeon_tiles.tsx",
+        "tilesetformattedupdate1.tsx",
+        "DungeonCrawl_ProjectUtumnoTileset (2).tsx",
+        "room1.tmx"
+    ]
+}

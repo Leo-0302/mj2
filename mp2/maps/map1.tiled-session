@@ -1,0 +1,55 @@
+{
+    "activeFile": "map1/room1.tmx",
+    "expandedProjectPaths": [
+        "map1",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map1/DungeonCrawl_ProjectUtumnoTileset (2).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1/dungeon_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1/room1.tmx": {
+            "scale": 1.5002083333333331,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.9666712956534,
+                "y": 159.97778086376894
+            }
+        },
+        "map1/tilesetformattedupdate1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/tma3/Downloads",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "map1/room1.tmx",
+        "map1/dungeon_tiles.tsx",
+        "map1/tilesetformattedupdate1.tsx",
+        "map1/DungeonCrawl_ProjectUtumnoTileset (2).tsx"
+    ],
+    "project": "map1.tiled-project",
+    "recentFiles": [
+        "map1/DungeonCrawl_ProjectUtumnoTileset (2).tsx",
+        "map1/tilesetformattedupdate1.tsx",
+        "map1/dungeon_tiles.tsx",
+        "map1/room1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

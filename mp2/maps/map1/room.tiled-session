@@ -1,0 +1,37 @@
+{
+    "activeFile": "tilesetformattedupdate1.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "dungeon_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesetformattedupdate1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/tma3/Downloads",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 60,
+    "openFiles": [
+        "tilesetformattedupdate1.tsx",
+        "dungeon_tiles.tsx"
+    ],
+    "project": "room.tiled-project",
+    "recentFiles": [
+        "dungeon_tiles.tsx",
+        "tilesetformattedupdate1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

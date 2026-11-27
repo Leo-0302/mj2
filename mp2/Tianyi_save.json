@@ -1,0 +1,56 @@
+{
+    "coins": 0,
+    "selected_character": "Knight",
+    "characters": {
+        "Knight": {
+            "unlocked": true,
+            "hp": 6,
+            "armor": 5,
+            "energy": 180,
+            "speed": 6.5,
+            "level": 1,
+            "damage": 4,
+            "skill_unlocked": true
+        },
+        "Priestess": {
+            "unlocked": false,
+            "hp": 3,
+            "armor": 5,
+            "energy": 200,
+            "speed": 6.5,
+            "level": 1,
+            "damage": 3,
+            "skill_unlocked": false
+        },
+        "Assassin": {
+            "unlocked": false,
+            "hp": 4,
+            "armor": 4,
+            "energy": 180,
+            "speed": 6.5,
+            "level": 1,
+            "damage": 5,
+            "skill_unlocked": false
+        },
+        "Berserker": {
+            "unlocked": false,
+            "hp": 9,
+            "armor": 3,
+            "energy": 150,
+            "speed": 6.5,
+            "level": 1,
+            "damage": 5,
+            "skill_unlocked": false
+        },
+        "Paladin": {
+            "unlocked": false,
+            "hp": 1,
+            "armor": 8,
+            "energy": 120,
+            "speed": 6.5,
+            "level": 1,
+            "damage": 4,
+            "skill_unlocked": false
+        }
+    }
+}
